@@ -1,0 +1,13 @@
+[ {
+      "id": 1,
+      "name": "Beatiful joke",
+      "link_name": "joke1",
+      "icon":"joke.png"
+  },
+ {
+      "id": 2,
+      "name": "Smelly fart",
+      "link_name": "smelly_f",
+      "icon":"smelly.png"
+}
+]
